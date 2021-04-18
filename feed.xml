@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>爆爆奢产品技术团队</title>
+  <subtitle>爆爆奢 · 产品技术团队</subtitle>
+  <id>https://luxnow.github.io/</id>
+  <link href="https://luxnow.github.io/"/>
+  <link href="https://luxnow.github.io/feed.xml" rel="self"/>
+  <updated>2021-04-18T08:00:00+08:00</updated>
+  <author>
+    <name>上海斐鸿网络科技有限公司</name>
+  </author>
+  <entry>
+    <title>Hello world!</title>
+    <link rel="alternate" href="https://luxnow.github.io/2021-04-18.html"/>
+    <id>https://luxnow.github.io/2021-04-18.html</id>
+    <published>2021-04-18T08:00:00+08:00</published>
+    <updated>2021-04-18T13:12:05+08:00</updated>
+    <author>
+      <name>朱峰</name>
+    </author>
+    <content type="html">&lt;p&gt;欢迎来到爆爆奢 · 产品技术团队！&lt;/p&gt;
+</content>
+  </entry>
+</feed>
