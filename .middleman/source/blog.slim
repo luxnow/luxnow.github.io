@@ -1,0 +1,26 @@
+doctype html
+html lang="zh-CN"
+  head
+    meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1'
+    meta name='viewport' content='width=device-width, initial-scale=1'
+    title= current_article.title + ' · 爆爆奢产品技术团队'
+    meta name="description" content=current_page.data.summary
+    = stylesheet_link_tag 'app'
+    = feed_tag :atom, '/feed.xml', title: 'Atom Feed'
+    link rel='icon' href='/images/favicon.ico'
+  body
+    .animated.fadeInDown
+      .header.container
+        a.logo href='/'= image_tag 'logo.png'
+        h1
+          a href='/' 产品技术团队
+        a.github href="https://github.com/luxnow" github.com/luxnow
+    .animated_container
+      .content.container.animated.fadeIn.delay
+        h2= current_article.title
+        .meta
+          span.date= current_page.data.date
+          span.author= current_page.data.author
+        blockquote= current_page.data.summary
+        = yield
+    = partial 'footer'

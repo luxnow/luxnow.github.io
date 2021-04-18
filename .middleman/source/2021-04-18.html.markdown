@@ -1,0 +1,7 @@
+---
+title: Hello world!
+author: 朱峰
+summary: 欢迎来到爆爆奢 · 产品技术团队！
+---
+
+欢迎来到爆爆奢 · 产品技术团队！
