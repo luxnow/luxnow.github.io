@@ -23,4 +23,8 @@ html lang="zh-CN"
           span.author= current_page.data.author
         blockquote= current_page.data.summary
         = yield
+        .comment
+          | 文章看完了，
+          a href="https://support.qq.com/product/323706" 说两句你的看法
+          | ！
     = partial 'footer'

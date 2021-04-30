@@ -5,20 +5,66 @@
   <id>https://luxnow.github.io/</id>
   <link href="https://luxnow.github.io/"/>
   <link href="https://luxnow.github.io/feed.xml" rel="self"/>
-  <updated>2021-04-18T08:00:00+08:00</updated>
+  <updated>2021-04-30T08:00:00+08:00</updated>
   <author>
     <name>上海斐鸿网络科技有限公司</name>
   </author>
+  <entry>
+    <title>程序员如何 10x 成长？（学习资料篇）</title>
+    <link rel="alternate" href="https://luxnow.github.io/2021-04-30.html"/>
+    <id>https://luxnow.github.io/2021-04-30.html</id>
+    <published>2021-04-30T08:00:00+08:00</published>
+    <updated>2021-04-30T11:54:04+08:00</updated>
+    <author>
+      <name>朱峰</name>
+    </author>
+    <content type="html">&lt;p&gt;五一假期将至，对于想成为 10x 程序员的你来说，必定会抓紧时间，好好学习💪&lt;/p&gt;
+
+&lt;p&gt;下面根据我的经验，分享一些 10x 程序员的学习资料，主要分经典和流行两部分。&lt;/p&gt;
+
+&lt;p&gt;经典是用于帮助你形成专业的工作思维和方法论的，流行是帮助你了解专业领域最新的趋势和新闻。&lt;/p&gt;
+
+&lt;p&gt;两者结合，就可以应对各种工作挑战，成为 10x 程序员😎&lt;/p&gt;
+
+&lt;h3&gt;经典类&lt;/h3&gt;
+
+&lt;p&gt;经典书籍作为必读书，不仅是越早学习越好，而且随着工作经验的增长，每次反复阅读都会有不一样的感悟。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://book.douban.com/subject/4199741/"&gt;《代码整洁之道（Clean Code）》&lt;/a&gt; 代码质量与其整洁度成正比。干净的代码，既在质量上较为可靠，也为后期维护、升级奠定了良好基础。&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://book.douban.com/subject/26919457/"&gt;《代码整洁之道: 程序员的职业素养（The Clean Coder）》&lt;/a&gt; 成功的程序员在以往的工作和生活中都曾经历过大大小小的不确定性，承受过永无休止的压力。他们之所以能够成功，是因为拥有一个共同点，都深切关注创建软件所需的各项实践。他们将软件开发视为一种需要精雕细琢加以修炼的技艺，他们以专业人士的标准要求自己，他们具有职业素养。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;流行类&lt;/h3&gt;
+
+&lt;p&gt;下面是一些周更的推送，你可以根据自己所在的技术领域，进行订阅：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://css-weekly.com/"&gt;CSS Weekly&lt;/a&gt; 推荐 &lt;strong&gt;前端开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://responsivedesign.is/"&gt;RWD Weekly&lt;/a&gt; 推荐 &lt;strong&gt;前端开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.smashingmagazine.com/the-smashing-newsletter/"&gt;Smashing Newsletter&lt;/a&gt; 推荐 &lt;strong&gt;前端开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://javascriptweekly.com/"&gt;Javascript Weekly&lt;/a&gt; 推荐 &lt;strong&gt;Javascript 开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://nodeweekly.com/"&gt;Node Weekly&lt;/a&gt; 推荐 &lt;strong&gt;Node.js 开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://offbynone.io/"&gt;off-by-none&lt;/a&gt; 推荐 &lt;strong&gt;后端开发&lt;/strong&gt; 订阅，主要内容是 Serverless 和云服务&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dbweekly.com/"&gt;Database Weekly&lt;/a&gt; 推荐 &lt;strong&gt;后端开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://postgresweekly.com/"&gt;Postgres Weekly&lt;/a&gt; 推荐 &lt;strong&gt;后端开发&lt;/strong&gt; 订阅&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Hello world!</title>
     <link rel="alternate" href="https://luxnow.github.io/2021-04-18.html"/>
     <id>https://luxnow.github.io/2021-04-18.html</id>
     <published>2021-04-18T08:00:00+08:00</published>
-    <updated>2021-04-18T13:12:05+08:00</updated>
+    <updated>2021-04-30T10:10:23+08:00</updated>
     <author>
       <name>朱峰</name>
     </author>
-    <content type="html">&lt;p&gt;欢迎来到爆爆奢 · 产品技术团队！&lt;/p&gt;
+    <content type="html">&lt;p&gt;欢迎来到爆爆奢 · 产品技术团队博客！&lt;/p&gt;
+
+&lt;p&gt;接下来我们会这里分享各类我们团队的工作经验和心得。&lt;/p&gt;
+
+&lt;p&gt;如果想加入我们，可以点击 &lt;a href="/jobs.html"&gt;Join Us&lt;/a&gt; 了解我们目前开放的岗位，期待你的互动和加入 :)&lt;/p&gt;
 </content>
   </entry>
 </feed>

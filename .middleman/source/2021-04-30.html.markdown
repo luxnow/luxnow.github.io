@@ -1,0 +1,36 @@
+---
+title: 程序员如何 10x 成长？（学习资料篇）
+date: 2021-04-30
+author: 朱峰
+summary: 掌握经典方法，熟悉最新趋势，你就是 10x 程序员！
+tags:
+  - 方法论
+---
+
+五一假期将至，对于想成为 10x 程序员的你来说，必定会抓紧时间，好好学习💪
+
+下面根据我的经验，分享一些 10x 程序员的学习资料，主要分经典和流行两部分。
+
+经典是用于帮助你形成专业的工作思维和方法论的，流行是帮助你了解专业领域最新的趋势和新闻。
+
+两者结合，就可以应对各种工作挑战，成为 10x 程序员😎
+
+### 经典类
+
+经典书籍作为必读书，不仅是越早学习越好，而且随着工作经验的增长，每次反复阅读都会有不一样的感悟。
+
+- [《代码整洁之道（Clean Code）》](https://book.douban.com/subject/4199741/) 代码质量与其整洁度成正比。干净的代码，既在质量上较为可靠，也为后期维护、升级奠定了良好基础。
+- [《代码整洁之道: 程序员的职业素养（The Clean Coder）》](https://book.douban.com/subject/26919457/) 成功的程序员在以往的工作和生活中都曾经历过大大小小的不确定性，承受过永无休止的压力。他们之所以能够成功，是因为拥有一个共同点，都深切关注创建软件所需的各项实践。他们将软件开发视为一种需要精雕细琢加以修炼的技艺，他们以专业人士的标准要求自己，他们具有职业素养。
+
+### 流行类
+
+下面是一些周更的推送，你可以根据自己所在的技术领域，进行订阅：
+
+- [CSS Weekly](https://css-weekly.com/) 推荐 **前端开发** 订阅
+- [RWD Weekly](https://responsivedesign.is/) 推荐 **前端开发** 订阅
+- [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) 推荐 **前端开发** 订阅
+- [Javascript Weekly](https://javascriptweekly.com/) 推荐 **Javascript 开发** 订阅
+- [Node Weekly](https://nodeweekly.com/) 推荐 **Node.js 开发** 订阅
+- [off-by-none](https://offbynone.io/) 推荐 **后端开发** 订阅，主要内容是 Serverless 和云服务
+- [Database Weekly](https://dbweekly.com/) 推荐 **后端开发** 订阅
+- [Postgres Weekly](https://postgresweekly.com/) 推荐 **后端开发** 订阅
