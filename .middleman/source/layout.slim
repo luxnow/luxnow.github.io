@@ -4,6 +4,13 @@ html lang="zh-CN"
     meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1'
     meta name='viewport' content='width=device-width, initial-scale=1'
     title= current_page.data.title ? current_page.data.title + ' · 爆爆奢产品技术团队' : (current_article ? current_article.title : '爆爆奢产品技术团队')
+    script(async=true src="https://www.googletagmanager.com/gtag/js?id=G-YJ9YEQQCGJ")
+    script
+      |
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-YJ9YEQQCGJ');
     = stylesheet_link_tag 'app'
     = feed_tag :atom, '/feed.xml', title: 'Atom Feed'
     link rel='icon' href='/images/favicon.ico'
