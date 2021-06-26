@@ -14,13 +14,15 @@
     <link rel="alternate" href="https://luxnow.github.io/2021-06-26.html"/>
     <id>https://luxnow.github.io/2021-06-26.html</id>
     <published>2021-06-26T08:00:00+08:00</published>
-    <updated>2021-06-26T16:01:50+08:00</updated>
+    <updated>2021-06-26T16:38:37+08:00</updated>
     <author>
       <name>朱峰</name>
     </author>
     <content type="html">&lt;p&gt;爆爆奢的后端完全基于 FaaS 架构，支撑了整个企业从前端到后端的业务。&lt;/p&gt;
 
-&lt;p&gt;今天跟大家聊聊爆爆奢从 FaaS 架构获得的收益，抛砖引玉以供探讨。&lt;/p&gt;
+&lt;p&gt;接下来分几篇文章，跟大家聊聊爆爆奢从 FaaS 架构获得的收益，抛砖引玉以供探讨。&lt;/p&gt;
+
+&lt;p&gt;今天先说 FaaS 在系统复杂性方面的收益​：为什么 FaaS 系统的复杂性不会随着规模的增长而指数增长？&lt;/p&gt;
 
 &lt;p&gt;大部分企业随着规模增长，需要经历从单体应用到微服务的重构历程。&lt;/p&gt;
 
