@@ -5,16 +5,66 @@
   <id>https://luxnow.github.io/</id>
   <link href="https://luxnow.github.io/"/>
   <link href="https://luxnow.github.io/feed.xml" rel="self"/>
-  <updated>2021-06-26T08:00:00+08:00</updated>
+  <updated>2021-07-10T08:00:00+08:00</updated>
   <author>
     <name>上海斐鸿网络科技有限公司</name>
   </author>
+  <entry>
+    <title>FaaS 开发之道</title>
+    <link rel="alternate" href="https://luxnow.github.io/2021-07-10.html"/>
+    <id>https://luxnow.github.io/2021-07-10.html</id>
+    <published>2021-07-10T08:00:00+08:00</published>
+    <updated>2021-07-10T15:11:25+08:00</updated>
+    <author>
+      <name>朱峰</name>
+    </author>
+    <content type="html">&lt;p&gt;以前技术与业务之间有着巨大的沟壑，业务有需求时，需要跨部门沟通，先找产品经理，产品经理细化后，再找项目经理进行排期，最后由开发完成上线。&lt;/p&gt;
+
+&lt;p&gt;整个工作流程不仅人员多、时间长，而且流程中任意一个节点失真严重一些，都会导致最终上线质量的不可控。&lt;/p&gt;
+
+&lt;p&gt;并且因为研发系统自身的复杂性，导致整个链路不得不那么长。&lt;/p&gt;
+
+&lt;p&gt;但现在随着基础设施的提升，特别是 FaaS 架构成为了切实可行的架构后，研发系统的复杂性被大幅降低了，开发人员有了更多的精力可以往前走，走近业务。从而缩短​距离，降低失真。&lt;/p&gt;
+
+&lt;p&gt;那作为一个开发人员，该​怎么往前走呢？&lt;/p&gt;
+
+&lt;p&gt;我建议从提升观察能力入手。&lt;/p&gt;
+
+&lt;p&gt;作为一个经常跟抽象概念打交道的开发人员，大脑已经被训练的习惯于​抽象思考，但现实世界是​具象的。并且不仅是具象，还是多维的，且每个维度都是具象的。&lt;/p&gt;
+
+&lt;p&gt;开发人员必须有意识的去观察具象的世界，去追求现实世界的反馈，来避免​在抽象的世界里自嗨。&lt;/p&gt;
+
+&lt;p&gt;比如前阵子仓库的拣货发货效率低，需要优化​。作为开发人员，要如何观察这个事情呢​？&lt;/p&gt;
+
+&lt;p&gt;通常来说，有这几个基本维度需要被观察到​：人员、场地、步骤​。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;人员​：有几个人？​分别是谁？如何分工的​？未来的​人员规划是怎么样的？&lt;/li&gt;
+&lt;li&gt;场地：​有几个场地？​分别是哪几个场地？每个场地要做什么事情​？未来场地的规划是怎么样的？&lt;/li&gt;
+&lt;li&gt;步骤​：有几个步骤？每个步骤分别需要哪些人员和场地​？步骤之间的交付​是怎么进行的？未来​步骤的规划是怎么样的？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;通过观察上面这些问题，可以了解到大致的情况​。如果在这个层面就发现了不少值得优化的地方，那​就可以开始进行初步的优化了。&lt;/p&gt;
+
+&lt;p&gt;但如果要继续精进，就需要更深入的去观察​其中一个或多个维度。&lt;/p&gt;
+
+&lt;p&gt;比如说人员这个维度​：人员的身高​是多少？​步距是多少？工作台和作业场地是否能够让他们快捷的完成工作？等等。&lt;/p&gt;
+
+&lt;p&gt;随着你观察的深入，你会发现越来越多的问题，越来越多的挑战​。&lt;/p&gt;
+
+&lt;p&gt;当你一个个去面对和完成这些挑战时，获得的不仅是现实世界的反馈，还有包括技术能力在内全方面的能力提升。&lt;/p&gt;
+
+&lt;p&gt;其实反过来看，你会发现 FaaS 架构其实也是为了解决研发流程的现实问题而产生的​，因此 FaaS 不仅仅是个技术架构，还是对整个研发流程的优化。&lt;/p&gt;
+
+&lt;p&gt;因此，请牢记​：追求现实世界的反馈，不要在抽象的世界里自嗨。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>为什么 FaaS 系统的复杂性不会随着规模的增长而指数增长？</title>
     <link rel="alternate" href="https://luxnow.github.io/2021-06-26.html"/>
     <id>https://luxnow.github.io/2021-06-26.html</id>
     <published>2021-06-26T08:00:00+08:00</published>
-    <updated>2021-06-26T16:38:37+08:00</updated>
+    <updated>2021-07-10T14:47:24+08:00</updated>
     <author>
       <name>朱峰</name>
     </author>
@@ -43,16 +93,6 @@
 &lt;p&gt;更何况随着开发投入的增加，技术管理、人员管理的成本和难度，都会指数级的增加。&lt;/p&gt;
 
 &lt;p&gt;曾经的企业不得不承担这块额外的风险，而在云时代，FaaS 成为了切实可行的基础架构，你跟不跟？&lt;/p&gt;
-
-&lt;h2&gt;招聘时间&lt;/h2&gt;
-
-&lt;p&gt;被微服务越来越高的维护成本和复杂性所困扰吗？&lt;/p&gt;
-
-&lt;p&gt;想感受 FaaS 架构带来的高效开发体验吗？&lt;/p&gt;
-
-&lt;p&gt;立即投递简历到 &lt;a href="mailto:zhufeng@xiangx.net"&gt;zhufeng@xiangx.net&lt;/a&gt; 吧！&lt;/p&gt;
-
-&lt;p&gt;我们长期招聘 初/中级 Node.js 后端 / 全栈工程师，工作地点靠近上海地铁1号线呼兰路站。&lt;/p&gt;
 </content>
   </entry>
   <entry>
